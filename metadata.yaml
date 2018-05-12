@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13053#International-Weekly-Miscellany-of-Literature-Art-and-Science---Volume-1-No.-4-July-22-1850
 gutenberg_bookshelf: The International Magazine of Literature, Art, and Science
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
